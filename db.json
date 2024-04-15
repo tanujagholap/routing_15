@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "tanu",
+      "salary": "789"
+    },
+    {
+      "id": "7",
+      "name": "anisha",
+      "salary": "12365"
+    }
+  ]
+}
